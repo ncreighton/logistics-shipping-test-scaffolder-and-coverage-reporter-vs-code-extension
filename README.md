@@ -1,0 +1,2 @@
+# logistics-shipping-test-scaffolder-and-coverage-reporter-vs-code-extension
+A specialized VS Code extension for developers working in logistics and shipping domains. It streamlines the process of creating unit tests for shipping-related code, such as order fulfillment, carrier integration, tracking systems, and inventory management. The extension automatically scaffolds test files based on user-defined templates, ensuring
